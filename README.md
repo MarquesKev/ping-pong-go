@@ -1,0 +1,1 @@
+No Go, uma goroutine é uma forma leve de executar funções de maneira concorrente. Extremamente eficiente em termos de desempenho, permite que múltiplas tarefas sejam realizadas ao mesmo tempo sem complicar o código. Neste exemplo simples de "Ping Pong", demonstro como goroutines e canais trabalham juntos para coordenar a execução paralela.
